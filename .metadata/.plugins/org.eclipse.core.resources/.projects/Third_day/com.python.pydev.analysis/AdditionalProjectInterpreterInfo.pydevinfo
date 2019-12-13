@@ -1,0 +1,50 @@
+-- VERSION_5
+-- START DISKCACHE_2
+E:\Flask_Practise\.metadata\.plugins\org.eclipse.core.resources\.projects\Third_day\com.python.pydev.analysis\v2_indexcache
+Registration_with_sqlalchemy.test|1571481392829706000|E:\Flask_Practise\Third_day\Registration_with_sqlalchemy\test.py
+Flask_database_connection.test|1571234094695786000|E:\Flask_Practise\Third_day\Flask_database_connection\test.py
+Registration_form.__init__|1571215107486090000|E:\Flask_Practise\Third_day\Registration_form\__init__.py
+Registration_with_sqlalchemy.__init__|1571307145211583000|E:\Flask_Practise\Third_day\Registration_with_sqlalchemy\__init__.py
+Registration_form.test|1571219708592182000|E:\Flask_Practise\Third_day\Registration_form\test.py
+Flask_database_connection.__init__|1571229054767358000|E:\Flask_Practise\Third_day\Flask_database_connection\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=E:\Flask_Practise\Third_day\Flask_database_connection\test.py
+4=Registration_with_sqlalchemy.test
+5=E:\Flask_Practise\Third_day\Registration_form\test.py
+3=E:\Flask_Practise\Third_day\Registration_with_sqlalchemy\test.py
+2=Flask_database_connection.test
+7=Registration
+10=Registration.__init__
+6=Registration_form.test
+8=Student
+9=Student.__init__
+-- END DICTIONARY
+-- START TREE 1
+11
+db|2|db!1^9#1*19@db!3^10#1*35@
+del|1|delete!3^83#5*34@
+log|2|login!5^16#5*50@login!3^37#5*34@
+m1|2|m1!3^29#5*34@m1!1^22#5*18@
+obj|3|obj!5^3#1*51@obj!3^6#1*35@obj!1^5#1*19@
+reg|2|Registration!5^5#7*49@registration!5^26#5*50@
+sav|2|savestu!1^26#5*18@savestu!3^50#5*34@
+sho|2|show!3^72#5*34@show!1^36#5*18@
+stu|3|Student!1^11#7*17@stu_list!3^70#1*35@Student!3^12#7*33@
+upd|2|update!3^91#5*34@updateuser!3^96#5*34@
+use|1|user_list!5^13#1*51@
+-- END TREE
+-- START TREE 2
+10
+__i|3|__init__!7&5^6#9*50@__init__!8&1^17#9*18@__init__!8&3^21#9*34@
+__t|2|__tablename__!8&3^13#5*35@__tablename__!8&1^12#5*19@
+add|2|addr!8&1^15#5*19@addr!9&1^19#9*19@
+ema|3|email!10&5^10#9*51@email!8&3^18#5*35@email!9&3^25#9*35@
+id|1|id!8&3^14#5*35@
+mob|3|mobno!10&5^11#9*51@mobno!8&3^19#5*35@mobno!9&3^26#9*35@
+nam|5|name!10&5^7#9*51@name!8&3^15#5*35@name!9&3^22#9*35@name!8&1^14#5*19@name!9&1^18#9*19@
+pas|3|password!10&5^9#9*51@password!8&3^17#5*35@password!9&3^24#9*35@
+rol|1|rollno!8&1^13#5*19@
+use|3|username!10&5^8#9*51@username!8&3^16#5*35@username!9&3^23#9*35@
+-- END TREE

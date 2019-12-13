@@ -1,0 +1,31 @@
+<html>
+	<head><title></title></head>
+		<body>
+			<center>
+				<h1>Login Successfully</h1>
+				<table border=1>
+					<tr>
+						<th>Name</th>
+						<th>Username</th>
+						<th>Email</th>
+						<th>Mobile No.</th>
+						<th>Action</th>
+					</tr>
+				{% if li %}
+				{% for i in li %}
+				<tr>
+					<td>{{i.name}}
+					<td>{{i.username}}
+					<td>{{i.email}}
+					<td>{{i.mobno}}
+					<td><a href="/delete/{{i.id}}"><button type="button">Delete</button></a>
+						<a href="/update/{{i.id}}"><button type="button">Update</button></a>
+				</tr>	
+				<br>
+				{% endfor %}
+				{% endif %}
+				</table>
+				
+			</center>
+		</body>
+</html> 

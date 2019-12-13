@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;templates&apos; to &apos;com&apos;&#x0D;&#x0A;- Original project: &apos;first_day&apos;&#x0D;&#x0A;- Destination element: &apos;com&apos;&#x0D;&#x0A;- Original element: &apos;templates&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move folder" element1="templates" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1571130462862" target="com" units="0" version="1.0"/>
+</session>

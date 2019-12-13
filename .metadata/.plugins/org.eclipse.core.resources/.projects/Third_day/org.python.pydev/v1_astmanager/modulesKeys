@@ -1,0 +1,7 @@
+MODULES_MANAGER_V2
+Flask_database_connection.__init__|E:\Flask_Practise\Third_day\Flask_database_connection\__init__.py
+Flask_database_connection.test|E:\Flask_Practise\Third_day\Flask_database_connection\test.py
+Registration_form.__init__|E:\Flask_Practise\Third_day\Registration_form\__init__.py
+Registration_form.test|E:\Flask_Practise\Third_day\Registration_form\test.py
+Registration_with_sqlalchemy.__init__|E:\Flask_Practise\Third_day\Registration_with_sqlalchemy\__init__.py
+Registration_with_sqlalchemy.test|E:\Flask_Practise\Third_day\Registration_with_sqlalchemy\test.py
